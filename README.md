@@ -3,7 +3,7 @@
 Source code to the Manning book *Concurrency in Python with Asyncio*.
 
 ## Running
-This code ran successfully with Python version 3.10.2. Using a different version may give you different results or may not work.
+This code ran successfully with Python version 3.10.2 Using a different version may give you different results or may not work.
 
 **Steps to Run Code Listing**
 
